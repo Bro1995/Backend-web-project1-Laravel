@@ -210,6 +210,7 @@ Reusable Blade components are used for:
 
 Testing & Setup
 
+
 Before evaluation, the following command can be executed safely:
 
 ***  php artisan migrate:fresh --seed   ****
@@ -228,9 +229,10 @@ Test Checklist:
 -View news as a visitor
 -Add comments
 -Edit user profile
--Manage FAQ conten
+-Manage FAQ content
 -Submit contact form
 -Verify admin route protection
+
 ------------------------------------------------
 
 
