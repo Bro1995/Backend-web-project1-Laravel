@@ -1,6 +1,6 @@
- IT Products Shop – Laravel Project
+IT Products Shop – Laravel Project
  --------------------------------------------
- Overview
+  Project Description
 
 This project is a Laravel-based web application that represents a small IT shop platform. Visitors can browse public content, while registered users and administrators have access to additional interactive features.
 
@@ -52,8 +52,7 @@ A default admin account is created using database seeders:
 
 ---------------------------------------------------
 
-
-User Profiles
+ Project Description
 
 -Every user has a public profile page visible to all visitors
 -Logged-in users can edit their own profile
@@ -69,7 +68,6 @@ Profile information includes:
 
 
 ---------------------------------------------------
-
 
 News System
 
@@ -112,7 +110,7 @@ Visitors can:
 -View questions and answers
 ---------------------------------------------------
 
-Contact Form
+Contact Page
 
 Visitors can send messages using the contact form.
 
@@ -174,7 +172,7 @@ Many-to-Many
 -News ↔ Tags
 ---------------------------------------------------
 
-Admin Middleware
+ Middleware Explanation (Admin)
 
 A custom admin middleware is used to protect administrative routes.
 
@@ -233,8 +231,10 @@ Test Checklist:
 -Manage FAQ conten
 -Submit contact form
 -Verify admin route protection
+------------------------------------------------
 
-***********************************************
+
+*****************
 Resources & References
 *****************
 
