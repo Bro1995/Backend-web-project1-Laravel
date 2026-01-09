@@ -1,0 +1,15 @@
+# Environment variables (passwords, database)
+.env
+
+# PHP dependencies
+/vendor/
+
+# Node dependencies
+/node_modules/
+
+# Laravel storage & cache
+/storage/logs/
+/storage/framework/
+
+# Compiled cache
+/bootstrap/cache/
