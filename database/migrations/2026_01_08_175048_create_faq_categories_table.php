@@ -1,0 +1,24 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    // Creates the categories used in the FAQ page
+    public function up(): void
+    {
+        Schema::create('faq_categories', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->timestamps();
+        });
+    }
+
+    // Drops the table when rolling back
+    public function down(): void
+    {
+        Schema::dropIfExists('faq_categories');
+    }
+};
