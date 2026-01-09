@@ -1,4 +1,5 @@
  IT Products Shop – Laravel Project
+ --------------------------------------------
  Overview
 
 This project is a Laravel-based web application that represents a small IT shop platform. Visitors can browse public content, while registered users and administrators have access to additional interactive features.
