@@ -233,3 +233,45 @@ Test Checklist:
 -Manage FAQ conten
 -Submit contact form
 -Verify admin route protection
+
+***********************************************
+Resources & References
+*****************
+
+The following resources were used for learning and reference:
+
+Laravel Documentation
+https://laravel.com/docs
+
+Laravel Breeze
+https://laravel.com/docs/starter-kits#laravel-breeze
+
+Blade Templates
+https://laravel.com/docs/blade
+
+Laravel Eloquent ORM
+https://laravel.com/docs/eloquent
+
+Tailwind CSS
+https://tailwindcss.com/docs
+
+Alpine.js
+https://alpinejs.dev/start
+
+PHP Documentation
+https://www.php.net/docs.php
+
+All external code and concepts used were understood and adapted for this project.
+-----------------------------------------------------------------------------------------
+
+ 
+ Final Notes
+-------------
+
+This project follows all functional and technical requirements.
+
+The application is fully dynamic and database-driven.
+
+Security, clean structure, and readability were prioritized.
+
+The code is written in a clear and understandable way.
